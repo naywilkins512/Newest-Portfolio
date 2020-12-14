@@ -11,3 +11,30 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+.jumbo {
+  background-color: rgb(31, 30, 31);
+  height: 100vh;
+  
+}
+
+.center{
+  margin: 10%;
+}
+
+.display {
+  color: rgb(168, 131, 131);
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 900;
+  font-size: 5rem;
+  padding: 70px 0;
+  text-align: left;
+}
+
+.sub {
+  color: rgb(240, 247, 244) !important;
+  text-align: right !important;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 600;
+}
